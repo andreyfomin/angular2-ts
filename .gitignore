@@ -1,0 +1,9 @@
+/.idea
+/node_modules
+/dist
+/build
+/src/lib/
+/coverage
+/latest
+/e2e_Test
+npm-debug.log*
