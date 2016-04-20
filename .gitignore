@@ -5,5 +5,6 @@
 /src/lib/
 /coverage
 /latest
+/app
 /e2e_Test
 npm-debug.log*

@@ -15,7 +15,7 @@
     "es6-shim": "*",
     "reflect-metadata": "*",
     "rxjs": "*",
-    "semantic-ui": "2.1.6",
+    "semantic-ui": "*",
     "systemjs": "*",
     "zone.js": "*"
   },
